@@ -36,7 +36,7 @@ print("is_connected :" + str(A.is_connected))
 ```
 
 ### scan(有三種類型)
-*進行掃描並連接
+**進行掃描並連接
 
 開始掃描後，會印出 "-----------start scan-----------"
 
@@ -67,7 +67,7 @@ A.scan(baudrate=300,COM="COM3")
 ```
 
 ### write
-*傳送字串給已連接的 Arduino 裝置
+**傳送字串給已連接的 Arduino 裝置
 
 若成功發送，會回傳 "Succeed to send message to Arduino"
 
@@ -80,7 +80,7 @@ A.write("aa4578")
 ```
 
 ### read
-*一定時間內接收從 Arduino 中發送的訊息
+**一定時間內接收從 Arduino 中發送的訊息
 
 若成功接收，會回傳接收到的字串
 
