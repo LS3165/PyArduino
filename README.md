@@ -1,5 +1,7 @@
 # PyArduino
-下載 main.py 與 PyArduino.py 並放入相同的路徑中(main.py 只是範例，若無需使用範例程式，則下載 PyArduino.py 即可)
+下載 main.py 與 PyArduino.py 並放入相同的路徑中
+
+(main.py 只是範例，若無需使用範例程式，則下載 PyArduino.py 即可)
 
 需使用到 serial，無須自己 import serial
 
