@@ -8,6 +8,8 @@
 serial 安裝 : pip install pyserial
 
 ## PyArduino.py
+目的 : 無須自己寫與 Arduino 的程式來縮減前置作業的時間
+
 Arduino Object 中有以下功能與參數可使用
 ### 建構式(有三種類型)
 ```python
