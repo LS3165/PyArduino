@@ -102,3 +102,5 @@ print(A.read())
 #嘗試在 10 秒內(時間會有些微的誤差，例如 10.0014564)接收資料
 print(A.read(10))
 ```
+## main.py 執行結果
+![螢幕擷取畫面 2021-06-18 180152](https://user-images.githubusercontent.com/68410521/122544494-7185d980-d05f-11eb-8a2e-2496a547ee34.png)
