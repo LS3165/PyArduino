@@ -3,7 +3,7 @@
 
 (main.py 只是範例，若無需使用範例程式，則下載 PyArduino.py 即可)
 
-需使用到 serial，無須自己 import serial
+需使用到 serial，無須自行 import serial
 
 serial 安裝 : pip install pyserial
 
