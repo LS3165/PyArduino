@@ -1,5 +1,10 @@
 # PyArduino
 下載 main.py 與 PyArduino.py 並放入相同的路徑中(main.py 只是範例，若無需使用範例程式，則下載 PyArduino.py 即可)
+
+需使用到 serial，無須自己 import serial
+
+serial 安裝 : pip install pyserial
+
 ## PyArduino.py
 Arduino Object 中有以下功能與參數可使用
 ### 建構式(有三種類型)
