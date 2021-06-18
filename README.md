@@ -83,9 +83,9 @@ A.scan(baudrate=300,COM="COM3")
 未連接裝置，則會回傳 "unconnected"
 ```python
 #傳送空字串(長度為0)
-A.write()
+print(A.write())
 #傳送 aa4578 此字串
-A.write("aa4578")
+print(A.write("aa4578"))
 ```
 
 ### read
